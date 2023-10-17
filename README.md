@@ -9,15 +9,15 @@
 ***[GET](https://dashboard.render.com/)***
 
 ### Add Config Vars
-1. ```SESSION_ID```***Session ID***
+1. ```SESSION_ID```***ZEROTWO=puVxVSja#wsMMang0m3IqIClsPPGIQiKpBzxBRm-aik_29VHcZqQ***
 2. ```POSTGRESQL_URL```***POSTGRESQL url***
 3. ```BOT_LANG```***SI OR EN***
-4. ```ANTI_BAD```***true Or false***
+4. ```ANTI_BAD```***true Or true***
 5. ```ANTI_LINK```***true Or false***
 6. ```ANTI_BOT```***true Or false***
 7. ```ONLY_GROUP```***true Or false***
 8. ```ALIVE```***default Or youre alive***
-9. ```FOOTER```***Youre name***
+9. ```FOOTER```***usama cheema***
 10. ```LOGO```***Youre logo url***
 
 ### Deploy
